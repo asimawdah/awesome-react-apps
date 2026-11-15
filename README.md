@@ -58,6 +58,7 @@ A curated list of open-source applications built with **React**. This list focus
 - [Mattermost](https://github.com/mattermost/mattermost) - A self-hosted team collaboration platform for messaging, channels, workflows, voice calls, and incident response. Built with Go and React. ([MIT](https://github.com/mattermost/mattermost/blob/master/LICENSE))
 
 - [Element Web](https://github.com/element-hq/element-web) - An open-source Matrix client for encrypted messaging, group rooms, voice and video calls, and federated communication on web and desktop. Built with React. ([Apache-2.0](https://github.com/element-hq/element-web/blob/develop/LICENSE))
+- [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - A self-hostable team and customer communication platform with real-time messaging, channels, integrations, and administration tools. Its web client is built with React. ([MIT](https://github.com/RocketChat/Rocket.Chat/blob/develop/LICENSE))
 ## AI & Chat Assistants
 
 - [LibreChat](https://github.com/LibreChat-AI/LibreChat) - A self-hosted AI chat platform that brings multiple model providers together with agents, MCP support, file uploads, web search, and code execution. Built with React. ([MIT](https://github.com/LibreChat-AI/LibreChat/blob/main/LICENSE))
