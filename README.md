@@ -165,6 +165,7 @@ A curated list of open-source applications built with **React**. This list focus
 
 - [ChartDB](https://github.com/chartdb/chartdb) - An open-source browser-based database diagram editor for visualizing schemas, generating SQL, and designing entity relationships. Built with React. ([AGPL-3.0](https://github.com/chartdb/chartdb/blob/main/LICENSE))
 
+- [drawDB](https://github.com/drawdb-io/drawdb) - A free, browser-based database diagram editor for creating ER diagrams, importing and exporting SQL, and generating database migrations. Built with React. ([AGPL-3.0](https://github.com/drawdb-io/drawdb/blob/main/LICENSE))
 ## Contributing
 
 Contributions are welcome. Please submit complete, working applications that:
