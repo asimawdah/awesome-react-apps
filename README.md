@@ -4,6 +4,7 @@ A curated list of open-source applications built with **React**. This list focus
 
 ## Contents
 
+- [Education & Learning](#education--learning)
 - [Social & Community](#social--community)
 - [Developer Platforms & Admin Consoles](#developer-platforms--admin-consoles)
 - [Communication & Collaboration](#communication--collaboration)
@@ -110,6 +111,10 @@ A curated list of open-source applications built with **React**. This list focus
 - [Mastodon](https://github.com/mastodon/mastodon) - A decentralized, federated social networking application for publishing posts, following people, and participating in communities across independently operated servers. Its web interface uses React. ([AGPL-3.0](https://github.com/mastodon/mastodon/blob/main/LICENSE))
 
 - [Bluesky Social App](https://github.com/bluesky-social/social-app) - The open-source client for Bluesky, supporting the web, iOS, and Android with feeds, posts, profiles, messaging, and decentralized social features. Built with React Native and React Native Web. ([License](https://github.com/bluesky-social/social-app/blob/main/LICENSE))
+## Education & Learning
+
+- [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - A free, open-source learning platform with interactive coding challenges, certifications, projects, and a large programming curriculum. Its web application is built with React. ([BSD-3-Clause](https://github.com/freeCodeCamp/freeCodeCamp/blob/main/LICENSE.md))
+
 ## Contributing
 
 Contributions are welcome. Please submit complete, working applications that:
