@@ -129,6 +129,7 @@ A curated list of open-source applications built with **React**. This list focus
 
 - [Saleor Dashboard](https://github.com/saleor/saleor-dashboard) - A React single-page administration app for managing products, orders, customers, channels, and configuration in a Saleor commerce backend. ([BSD-3-Clause](https://github.com/saleor/saleor-dashboard/blob/main/LICENSE))
 
+- [Saleor Storefront](https://github.com/saleor/storefront) - An open-source, customizable e-commerce storefront with product browsing, cart, checkout, and Saleor GraphQL integration. Built with Next.js and React. ([License](https://github.com/saleor/storefront/blob/main/LICENSE))
 ## Contributing
 
 Contributions are welcome. Please submit complete, working applications that:
