@@ -14,6 +14,8 @@ A curated list of open-source applications built with **React**. This list focus
 
 - [Solova](https://github.com/morpheusadam/Solova) - A self-hosted workspace for freelancers combining Kanban boards, projects, client CRM, time tracking, invoicing, and accounting. Built with Next.js and React. ([MIT](https://github.com/morpheusadam/Solova/blob/main/LICENSE))
 
+- [Plane](https://github.com/makeplane/plane) - An open-source project management workspace for tracking issues, planning cycles, managing roadmaps, and collaborating across teams. Built with React and TypeScript.
+
 ## CRM & Business
 
 - [NextCRM](https://github.com/pdovhomilja/nextcrm-app) - An open-source CRM with project management, invoicing, documents, email, and AI features. Built with Next.js, React, TypeScript, and PostgreSQL. ([MIT](https://github.com/pdovhomilja/nextcrm-app/blob/main/LICENSE))
