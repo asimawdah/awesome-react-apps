@@ -4,6 +4,7 @@ A curated list of open-source applications built with **React**. This list focus
 
 ## Contents
 
+- [Documents & E-Signatures](#documents--e-signatures)
 - [Bookmarks & Personal Knowledge](#bookmarks--personal-knowledge)
 - [Productivity & Project Management](#productivity--project-management)
 - [CRM & Business](#crm--business)
@@ -34,6 +35,10 @@ A curated list of open-source applications built with **React**. This list focus
 - [Linkwarden](https://github.com/linkwarden/linkwarden) - A self-hosted collaborative bookmark manager that saves webpages as screenshots, PDFs, and HTML snapshots for long-term access. Built with Next.js and React.
 
 - [Karakeep](https://github.com/karakeep-app/karakeep) - A self-hostable bookmark manager for saving links, notes, images, and PDFs, with full-text search, automatic tagging, and AI-assisted organization. Built with Next.js and React.
+
+## Documents & E-Signatures
+
+- [Documenso](https://github.com/documenso/documenso) - An open-source electronic signature platform for preparing, sending, signing, and managing documents online. Built with Next.js and React. ([AGPL-3.0](https://github.com/documenso/documenso/blob/main/LICENSE))
 
 ## Contributing
 
