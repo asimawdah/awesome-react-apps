@@ -157,6 +157,7 @@ A curated list of open-source applications built with **React**. This list focus
 
 - [GitHub Desktop](https://github.com/desktop/desktop) - An open-source desktop client for working with GitHub repositories, reviewing diffs, managing branches, and committing or publishing changes. Built with Electron, TypeScript, and React. ([MIT](https://github.com/desktop/desktop/blob/development/LICENSE))
 
+- [Onlook](https://github.com/onlook-dev/onlook) - An open-source visual design tool for editing React applications directly in their codebase, combining a visual canvas with AI-assisted code changes. Built with React and TypeScript. ([Apache-2.0](https://github.com/onlook-dev/onlook/blob/main/package.json))
 ## Kubernetes & Infrastructure Management
 
 - [Headlamp](https://github.com/kubernetes-sigs/headlamp) - An extensible Kubernetes web and desktop UI for viewing and managing cluster resources, with multi-cluster support and a plugin system. Built with React and TypeScript. ([Apache-2.0](https://github.com/kubernetes-sigs/headlamp/blob/main/LICENSE))
