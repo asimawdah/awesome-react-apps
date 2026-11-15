@@ -56,6 +56,7 @@ A curated list of open-source applications built with **React**. This list focus
 - [LibreChat](https://github.com/LibreChat-AI/LibreChat) - A self-hosted AI chat platform that brings multiple model providers together with agents, MCP support, file uploads, web search, and code execution. Built with React. ([MIT](https://github.com/LibreChat-AI/LibreChat/blob/main/LICENSE))
 
 - [NextChat](https://github.com/ChatGPTNextWeb/NextChat) - A lightweight AI assistant web app and PWA supporting multiple model providers, including cloud APIs and local inference services. Built with React and Next.js. ([MIT](https://github.com/ChatGPTNextWeb/NextChat/blob/main/LICENSE))
+- [AnythingLLM](https://github.com/Mintplex-Labs/anything-llm) - An all-in-one AI application for chatting with documents, managing workspaces, and running AI agents with local or hosted models. Includes web and desktop clients. ([MIT](https://github.com/Mintplex-Labs/anything-llm/blob/master/LICENSE))
 ## Contributing
 
 Contributions are welcome. Please submit complete, working applications that:
