@@ -4,6 +4,7 @@ A curated list of open-source applications built with **React**. This list focus
 
 ## Contents
 
+- [Developer Platforms & Admin Consoles](#developer-platforms--admin-consoles)
 - [Communication & Collaboration](#communication--collaboration)
 - [Content Management & Website Builders](#content-management--website-builders)
 - [Low-Code & Internal Tools](#low-code--internal-tools)
@@ -95,6 +96,10 @@ A curated list of open-source applications built with **React**. This list focus
 
 - [Strapi](https://github.com/strapi/strapi) - An open-source headless CMS for creating, managing, and delivering structured content through APIs, with a React-based administration interface. ([License](https://github.com/strapi/strapi/blob/develop/LICENSE))
 - [Webstudio](https://github.com/webstudio-is/webstudio) - An open-source visual website builder for designing responsive websites with reusable components and self-hosted deployment. Built with React. ([AGPL-3.0 for the core](https://github.com/webstudio-is/webstudio/blob/main/LICENSE))
+## Developer Platforms & Admin Consoles
+
+- [Supabase Studio](https://github.com/supabase/supabase) - The open-source dashboard for the Supabase developer platform, providing visual tools to manage PostgreSQL databases, authentication, storage, APIs, and edge functions. Built with React.
+
 ## Contributing
 
 Contributions are welcome. Please submit complete, working applications that:
