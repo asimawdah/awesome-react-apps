@@ -166,6 +166,7 @@ A curated list of open-source applications built with **React**. This list focus
 - [ChartDB](https://github.com/chartdb/chartdb) - An open-source browser-based database diagram editor for visualizing schemas, generating SQL, and designing entity relationships. Built with React. ([AGPL-3.0](https://github.com/chartdb/chartdb/blob/main/LICENSE))
 
 - [drawDB](https://github.com/drawdb-io/drawdb) - A free, browser-based database diagram editor for creating ER diagrams, importing and exporting SQL, and generating database migrations. Built with React. ([AGPL-3.0](https://github.com/drawdb-io/drawdb/blob/main/LICENSE))
+- [CloudBeaver](https://github.com/dbeaver/cloudbeaver) - An open-source web-based database manager with SQL editing, data browsing, administration, and database visualization. The web application is written in TypeScript and React. ([Apache-2.0](https://github.com/dbeaver/cloudbeaver/blob/devel/LICENSE))
 ## Contributing
 
 Contributions are welcome. Please submit complete, working applications that:
