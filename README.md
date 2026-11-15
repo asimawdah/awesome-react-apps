@@ -4,6 +4,7 @@ A curated list of open-source applications built with **React**. This list focus
 
 ## Contents
 
+- [Developer Tools & Desktop Apps](#developer-tools--desktop-apps)
 - [Security & Secrets Management](#security--secrets-management)
 - [Personal Finance & Budgeting](#personal-finance--budgeting)
 - [E-Commerce & Storefronts](#e-commerce--storefronts)
@@ -148,6 +149,10 @@ A curated list of open-source applications built with **React**. This list focus
 ## Security & Secrets Management
 
 - [Infisical](https://github.com/Infisical/infisical) - An open-source security platform for managing application secrets, certificates, keys, privileged access, and machine identities across development and production environments. Its web console is built with React. ([MIT](https://github.com/Infisical/infisical/blob/main/LICENSE))
+
+## Developer Tools & Desktop Apps
+
+- [GitHub Desktop](https://github.com/desktop/desktop) - An open-source desktop client for working with GitHub repositories, reviewing diffs, managing branches, and committing or publishing changes. Built with Electron, TypeScript, and React. ([MIT](https://github.com/desktop/desktop/blob/development/LICENSE))
 
 ## Contributing
 
