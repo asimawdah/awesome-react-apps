@@ -4,6 +4,7 @@ A curated list of open-source applications built with **React**. This list focus
 
 ## Contents
 
+- [Whiteboards & Visual Collaboration](#whiteboards--visual-collaboration)
 - [Email & Communication Clients](#email--communication-clients)
 - [Deployment & Hosting Platforms](#deployment--hosting-platforms)
 - [Database Tools & Modeling](#database-tools--modeling)
@@ -180,6 +181,10 @@ A curated list of open-source applications built with **React**. This list focus
 ## Email & Communication Clients
 
 - [MailCopilot](https://github.com/mailcopilot/mailcopilot) - An open-source desktop email client with multi-account IMAP/SMTP support, unified inbox, message threading, scheduled sending, reminders, and an AI assistant. Built with Electron, React, and TypeScript. ([AGPL-3.0-only](https://github.com/mailcopilot/mailcopilot/blob/main/LICENSE))
+
+## Whiteboards & Visual Collaboration
+
+- [Excalidraw](https://github.com/excalidraw/excalidraw) - An open-source, collaborative virtual whiteboard with a hand-drawn visual style, diagramming tools, and end-to-end encrypted collaboration. The editor is built with React. ([MIT](https://github.com/excalidraw/excalidraw/blob/master/LICENSE))
 
 ## Contributing
 
