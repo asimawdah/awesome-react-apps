@@ -4,6 +4,7 @@ A curated list of open-source applications built with **React**. This list focus
 
 ## Contents
 
+- [E-Commerce & Storefronts](#e-commerce--storefronts)
 - [Self-Hosting & Home Server Dashboards](#self-hosting--home-server-dashboards)
 - [Education & Learning](#education--learning)
 - [Social & Community](#social--community)
@@ -124,6 +125,10 @@ A curated list of open-source applications built with **React**. This list focus
 - [Runtipi](https://github.com/runtipi/runtipi) - A self-hosted home-server platform with an app store, one-click deployments, and a dashboard for managing services on your own hardware. Built with NestJS and React. ([License](https://github.com/runtipi/runtipi/blob/master/LICENSE))
 
 - [Homepage](https://github.com/gethomepage/homepage) - A configurable self-hosted start page that brings links, service status, bookmarks, and integrations for many home-server applications into one dashboard. Built with React and Next.js. ([License](https://github.com/gethomepage/homepage/blob/dev/LICENSE))
+## E-Commerce & Storefronts
+
+- [Saleor Dashboard](https://github.com/saleor/saleor-dashboard) - A React single-page administration app for managing products, orders, customers, channels, and configuration in a Saleor commerce backend. ([BSD-3-Clause](https://github.com/saleor/saleor-dashboard/blob/main/LICENSE))
+
 ## Contributing
 
 Contributions are welcome. Please submit complete, working applications that:
