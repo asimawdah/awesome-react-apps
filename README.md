@@ -4,6 +4,7 @@ A curated list of open-source applications built with **React**. This list focus
 
 ## Contents
 
+- [Communication & Collaboration](#communication--collaboration)
 - [Scheduling & Events](#scheduling--events)
 - [Documents & E-Signatures](#documents--e-signatures)
 - [Bookmarks & Personal Knowledge](#bookmarks--personal-knowledge)
@@ -44,6 +45,10 @@ A curated list of open-source applications built with **React**. This list focus
 ## Scheduling & Events
 
 - [Cal.diy](https://github.com/calcom/cal.diy) - A fully open-source, self-hosted scheduling and appointment-booking platform with booking pages, availability management, and calendar integrations. Built with Next.js and React. ([MIT](https://github.com/calcom/cal.diy/blob/main/LICENSE))
+
+## Communication & Collaboration
+
+- [Mattermost](https://github.com/mattermost/mattermost) - A self-hosted team collaboration platform for messaging, channels, workflows, voice calls, and incident response. Built with Go and React. ([MIT](https://github.com/mattermost/mattermost/blob/master/LICENSE))
 
 ## Contributing
 
