@@ -26,6 +26,8 @@ A curated list of open-source applications built with **React**. This list focus
 
 - [BatNoter](https://github.com/batnoter/batnoter) - A self-hosted, Markdown-based note-taking app that stores notes directly in a user's Git repository. Built with React, TypeScript, Redux Toolkit, and Material UI. ([MIT](https://github.com/batnoter/batnoter/blob/master/LICENSE))
 
+- [AFFiNE](https://github.com/toeverything/AFFiNE) - A local-first workspace combining documents, whiteboards, and databases as a privacy-focused alternative to Notion and Miro. Built with React.
+
 ## Contributing
 
 Contributions are welcome. Please submit complete, working applications that:
