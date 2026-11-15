@@ -4,6 +4,7 @@ A curated list of open-source applications built with **React**. This list focus
 
 ## Contents
 
+- [Email & Communication Clients](#email--communication-clients)
 - [Deployment & Hosting Platforms](#deployment--hosting-platforms)
 - [Database Tools & Modeling](#database-tools--modeling)
 - [Kubernetes & Infrastructure Management](#kubernetes--infrastructure-management)
@@ -173,6 +174,10 @@ A curated list of open-source applications built with **React**. This list focus
 ## Deployment & Hosting Platforms
 
 - [Dokploy](https://github.com/Dokploy/dokploy) - A self-hostable platform-as-a-service for deploying applications and databases, managing Docker Compose projects, backups, domains, and multi-node infrastructure. Its dashboard uses Next.js and React. ([Apache-2.0](https://github.com/Dokploy/dokploy/blob/canary/LICENSE))
+
+## Email & Communication Clients
+
+- [MailCopilot](https://github.com/mailcopilot/mailcopilot) - An open-source desktop email client with multi-account IMAP/SMTP support, unified inbox, message threading, scheduled sending, reminders, and an AI assistant. Built with Electron, React, and TypeScript. ([AGPL-3.0-only](https://github.com/mailcopilot/mailcopilot/blob/main/LICENSE))
 
 ## Contributing
 
