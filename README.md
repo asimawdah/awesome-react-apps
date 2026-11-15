@@ -16,6 +16,8 @@ A curated list of open-source applications built with **React**. This list focus
 
 - [Plane](https://github.com/makeplane/plane) - An open-source project management workspace for tracking issues, planning cycles, managing roadmaps, and collaborating across teams. Built with React and TypeScript.
 
+- [Planka](https://github.com/plankanban/planka) - A self-hosted Kanban project management app with boards, lists, cards, labels, projects, and team collaboration. Built with React.
+
 ## CRM & Business
 
 - [NextCRM](https://github.com/pdovhomilja/nextcrm-app) - An open-source CRM with project management, invoicing, documents, email, and AI features. Built with Next.js, React, TypeScript, and PostgreSQL. ([MIT](https://github.com/pdovhomilja/nextcrm-app/blob/main/LICENSE))
