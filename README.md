@@ -4,6 +4,7 @@ A curated list of open-source applications built with **React**. This list focus
 
 ## Contents
 
+- [Audio & Podcast Applications](#audio--podcast-applications)
 - [Whiteboards & Visual Collaboration](#whiteboards--visual-collaboration)
 - [Email & Communication Clients](#email--communication-clients)
 - [Deployment & Hosting Platforms](#deployment--hosting-platforms)
@@ -189,6 +190,10 @@ A curated list of open-source applications built with **React**. This list focus
 ## Whiteboards & Visual Collaboration
 
 - [Excalidraw](https://github.com/excalidraw/excalidraw) - An open-source, collaborative virtual whiteboard with a hand-drawn visual style, diagramming tools, and end-to-end encrypted collaboration. The editor is built with React. ([MIT](https://github.com/excalidraw/excalidraw/blob/master/LICENSE))
+
+## Audio & Podcast Applications
+
+- [Podverse](https://github.com/podverse/podverse) - An open-source, self-hostable podcast application with web and mobile clients, Podcasting 2.0 features, chapters, transcripts, and creator-support tools. Its web client is built with React and Next.js. ([AGPL-3.0](https://github.com/podverse/podverse/blob/develop/LICENSE))
 
 ## Contributing
 
