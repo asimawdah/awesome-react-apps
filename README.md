@@ -4,6 +4,7 @@ A curated list of open-source applications built with **React**. This list focus
 
 ## Contents
 
+- [Self-Hosting & Home Server Dashboards](#self-hosting--home-server-dashboards)
 - [Education & Learning](#education--learning)
 - [Social & Community](#social--community)
 - [Developer Platforms & Admin Consoles](#developer-platforms--admin-consoles)
@@ -114,6 +115,10 @@ A curated list of open-source applications built with **React**. This list focus
 ## Education & Learning
 
 - [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - A free, open-source learning platform with interactive coding challenges, certifications, projects, and a large programming curriculum. Its web application is built with React. ([BSD-3-Clause](https://github.com/freeCodeCamp/freeCodeCamp/blob/main/LICENSE.md))
+
+## Self-Hosting & Home Server Dashboards
+
+- [Runtipi](https://github.com/runtipi/runtipi) - A self-hosted home-server platform with an app store, one-click deployments, and a dashboard for managing services on your own hardware. Built with NestJS and React. ([License](https://github.com/runtipi/runtipi/blob/master/LICENSE))
 
 ## Contributing
 
