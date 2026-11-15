@@ -4,6 +4,7 @@ A curated list of open-source applications built with **React**. This list focus
 
 ## Contents
 
+- [AI & Chat Assistants](#ai--chat-assistants)
 - [Communication & Collaboration](#communication--collaboration)
 - [Scheduling & Events](#scheduling--events)
 - [Documents & E-Signatures](#documents--e-signatures)
@@ -49,6 +50,10 @@ A curated list of open-source applications built with **React**. This list focus
 ## Communication & Collaboration
 
 - [Mattermost](https://github.com/mattermost/mattermost) - A self-hosted team collaboration platform for messaging, channels, workflows, voice calls, and incident response. Built with Go and React. ([MIT](https://github.com/mattermost/mattermost/blob/master/LICENSE))
+
+## AI & Chat Assistants
+
+- [LibreChat](https://github.com/LibreChat-AI/LibreChat) - A self-hosted AI chat platform that brings multiple model providers together with agents, MCP support, file uploads, web search, and code execution. Built with React. ([MIT](https://github.com/LibreChat-AI/LibreChat/blob/main/LICENSE))
 
 ## Contributing
 
