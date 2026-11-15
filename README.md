@@ -53,6 +53,7 @@ A curated list of open-source applications built with **React**. This list focus
 - [AFFiNE](https://github.com/toeverything/AFFiNE) - A local-first workspace combining documents, whiteboards, and databases as a privacy-focused alternative to Notion and Miro. Built with React.
 
 - [Docmost](https://github.com/Docmost/docmost) - An open-source collaborative wiki and documentation workspace with real-time editing, spaces, permissions, comments, page history, diagrams, and file attachments. Built with React. ([AGPL-3.0 core; enterprise modules are separately licensed](https://github.com/Docmost/docmost/blob/main/LICENSE))
+- [Joplin](https://github.com/laurent22/joplin) - An open-source note-taking and to-do application with notebooks, Markdown editing, search, tagging, synchronization, and desktop and mobile clients. Its desktop application uses React. ([AGPL-3.0-or-later](https://github.com/laurent22/joplin/blob/dev/LICENSE))
 ## Bookmarks & Personal Knowledge
 
 - [Linkwarden](https://github.com/linkwarden/linkwarden) - A self-hosted collaborative bookmark manager that saves webpages as screenshots, PDFs, and HTML snapshots for long-term access. Built with Next.js and React.
