@@ -28,6 +28,7 @@ A curated list of open-source applications built with **React**. This list focus
 
 - [NextCRM](https://github.com/pdovhomilja/nextcrm-app) - An open-source CRM with project management, invoicing, documents, email, and AI features. Built with Next.js, React, TypeScript, and PostgreSQL. ([MIT](https://github.com/pdovhomilja/nextcrm-app/blob/main/LICENSE))
 
+- [Twenty](https://github.com/twentyhq/twenty) - An open-source CRM designed for teams that need customizable objects, workflows, contacts, companies, and sales pipelines. Built with React and TypeScript. ([AGPL-3.0 with separately licensed enterprise files](https://github.com/twentyhq/twenty/blob/main/LICENSE))
 ## Notes & Knowledge Management
 
 - [BatNoter](https://github.com/batnoter/batnoter) - A self-hosted, Markdown-based note-taking app that stores notes directly in a user's Git repository. Built with React, TypeScript, Redux Toolkit, and Material UI. ([MIT](https://github.com/batnoter/batnoter/blob/master/LICENSE))
