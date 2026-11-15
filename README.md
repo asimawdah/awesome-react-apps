@@ -4,6 +4,7 @@ A curated list of open-source applications built with **React**. This list focus
 
 ## Contents
 
+- [Customer Feedback & Surveys](#customer-feedback--surveys)
 - [Analytics & Observability](#analytics--observability)
 - [AI & Chat Assistants](#ai--chat-assistants)
 - [Communication & Collaboration](#communication--collaboration)
@@ -67,6 +68,10 @@ A curated list of open-source applications built with **React**. This list focus
 
 - [PostHog](https://github.com/posthog/posthog) - An open-source product analytics platform combining event analytics, session replay, feature flags, experiments, and product insights. Its web application is built with React. ([License](https://github.com/PostHog/posthog/blob/master/LICENSE))
 - [GrowthBook](https://github.com/growthbook/growthbook) - A self-hostable feature-flagging and experimentation platform for managing releases, running A/B tests, and analyzing product experiments. Built with React. ([MIT](https://github.com/growthbook/growthbook/blob/main/LICENSE))
+## Customer Feedback & Surveys
+
+- [Formbricks](https://github.com/formbricks/formbricks) - A privacy-first survey and experience-management platform for collecting in-product feedback, running surveys, and understanding user experiences. Built with React and Next.js. ([License](https://github.com/formbricks/formbricks/blob/main/LICENSE))
+
 ## Contributing
 
 Contributions are welcome. Please submit complete, working applications that:
