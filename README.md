@@ -4,6 +4,7 @@ A curated list of open-source applications built with **React**. This list focus
 
 ## Contents
 
+- [Kubernetes & Infrastructure Management](#kubernetes--infrastructure-management)
 - [Developer Tools & Desktop Apps](#developer-tools--desktop-apps)
 - [Security & Secrets Management](#security--secrets-management)
 - [Personal Finance & Budgeting](#personal-finance--budgeting)
@@ -153,6 +154,10 @@ A curated list of open-source applications built with **React**. This list focus
 ## Developer Tools & Desktop Apps
 
 - [GitHub Desktop](https://github.com/desktop/desktop) - An open-source desktop client for working with GitHub repositories, reviewing diffs, managing branches, and committing or publishing changes. Built with Electron, TypeScript, and React. ([MIT](https://github.com/desktop/desktop/blob/development/LICENSE))
+
+## Kubernetes & Infrastructure Management
+
+- [Headlamp](https://github.com/kubernetes-sigs/headlamp) - An extensible Kubernetes web and desktop UI for viewing and managing cluster resources, with multi-cluster support and a plugin system. Built with React and TypeScript. ([Apache-2.0](https://github.com/kubernetes-sigs/headlamp/blob/main/LICENSE))
 
 ## Contributing
 
