@@ -85,6 +85,7 @@ A curated list of open-source applications built with **React**. This list focus
 - [Payload](https://github.com/payloadcms/payload) - A TypeScript-native headless CMS and application framework with a customizable React admin panel, content APIs, and database adapters. ([MIT](https://github.com/payloadcms/payload/blob/main/LICENSE))
 
 - [Strapi](https://github.com/strapi/strapi) - An open-source headless CMS for creating, managing, and delivering structured content through APIs, with a React-based administration interface. ([License](https://github.com/strapi/strapi/blob/develop/LICENSE))
+- [Webstudio](https://github.com/webstudio-is/webstudio) - An open-source visual website builder for designing responsive websites with reusable components and self-hosted deployment. Built with React. ([AGPL-3.0 for the core](https://github.com/webstudio-is/webstudio/blob/main/LICENSE))
 ## Contributing
 
 Contributions are welcome. Please submit complete, working applications that:
