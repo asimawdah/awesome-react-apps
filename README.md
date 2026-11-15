@@ -64,6 +64,7 @@ A curated list of open-source applications built with **React**. This list focus
 
 - [Umami](https://github.com/umami-software/umami) - A privacy-focused, self-hostable web and product analytics platform for tracking website traffic, events, and conversions without cookie-based tracking. Built with Next.js and React. ([MIT](https://github.com/umami-software/umami/blob/master/LICENSE))
 
+- [PostHog](https://github.com/posthog/posthog) - An open-source product analytics platform combining event analytics, session replay, feature flags, experiments, and product insights. Its web application is built with React. ([License](https://github.com/PostHog/posthog/blob/master/LICENSE))
 ## Contributing
 
 Contributions are welcome. Please submit complete, working applications that:
