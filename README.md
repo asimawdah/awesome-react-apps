@@ -100,6 +100,7 @@ A curated list of open-source applications built with **React**. This list focus
 
 - [Supabase Studio](https://github.com/supabase/supabase) - The open-source dashboard for the Supabase developer platform, providing visual tools to manage PostgreSQL databases, authentication, storage, APIs, and edge functions. Built with React.
 
+- [Appwrite Console](https://github.com/appwrite/appwrite) - The administration console for Appwrite, an open-source backend platform for managing projects, authentication, databases, storage, functions, and realtime services. The console is built with React.
 ## Contributing
 
 Contributions are welcome. Please submit complete, working applications that:
