@@ -57,6 +57,7 @@ A curated list of open-source applications built with **React**. This list focus
 
 - [Documenso](https://github.com/documenso/documenso) - An open-source electronic signature platform for preparing, sending, signing, and managing documents online. Built with Next.js and React. ([AGPL-3.0](https://github.com/documenso/documenso/blob/main/LICENSE))
 
+- [OpenSign](https://github.com/OpenSignLabs/OpenSign) - An open-source electronic signature application for preparing, sending, signing, and managing documents as a self-hosted alternative to DocuSign. Built with React. ([AGPL-3.0](https://github.com/OpenSignLabs/OpenSign/blob/staging/LICENSE))
 ## Scheduling & Events
 
 - [Cal.diy](https://github.com/calcom/cal.diy) - A fully open-source, self-hosted scheduling and appointment-booking platform with booking pages, availability management, and calendar integrations. Built with Next.js and React. ([MIT](https://github.com/calcom/cal.diy/blob/main/LICENSE))
