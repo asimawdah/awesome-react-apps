@@ -58,6 +58,7 @@ A curated list of open-source applications built with **React**. This list focus
 - [NextChat](https://github.com/ChatGPTNextWeb/NextChat) - A lightweight AI assistant web app and PWA supporting multiple model providers, including cloud APIs and local inference services. Built with React and Next.js. ([MIT](https://github.com/ChatGPTNextWeb/NextChat/blob/main/LICENSE))
 - [AnythingLLM](https://github.com/Mintplex-Labs/anything-llm) - An all-in-one AI application for chatting with documents, managing workspaces, and running AI agents with local or hosted models. Includes web and desktop clients. ([MIT](https://github.com/Mintplex-Labs/anything-llm/blob/master/LICENSE))
 - [Big-AGI](https://github.com/enricoros/big-AGI) - An AI workspace for working with multiple language models, comparing responses, and using assistant and agent tools through a browser or self-hosted deployment. Built with React. ([License](https://github.com/enricoros/big-AGI/blob/main/LICENSE))
+- [Langflow](https://github.com/langflow-ai/langflow) - A visual application for building, testing, and deploying AI agents and workflows, with an interactive flow editor and API/MCP support. ([MIT](https://github.com/langflow-ai/langflow/blob/main/LICENSE))
 ## Contributing
 
 Contributions are welcome. Please submit complete, working applications that:
