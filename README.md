@@ -4,6 +4,7 @@ A curated list of open-source applications built with **React**. This list focus
 
 ## Contents
 
+- [Personal Finance & Budgeting](#personal-finance--budgeting)
 - [E-Commerce & Storefronts](#e-commerce--storefronts)
 - [Self-Hosting & Home Server Dashboards](#self-hosting--home-server-dashboards)
 - [Education & Learning](#education--learning)
@@ -133,6 +134,10 @@ A curated list of open-source applications built with **React**. This list focus
 - [Saleor Dashboard](https://github.com/saleor/saleor-dashboard) - A React single-page administration app for managing products, orders, customers, channels, and configuration in a Saleor commerce backend. ([BSD-3-Clause](https://github.com/saleor/saleor-dashboard/blob/main/LICENSE))
 
 - [Saleor Storefront](https://github.com/saleor/storefront) - An open-source, customizable e-commerce storefront with product browsing, cart, checkout, and Saleor GraphQL integration. Built with Next.js and React. ([License](https://github.com/saleor/storefront/blob/main/LICENSE))
+## Personal Finance & Budgeting
+
+- [Actual Budget](https://github.com/actualbudget/actual) - A local-first personal finance and envelope-budgeting app for tracking accounts, transactions, budgets, and reports, with optional sync and self-hosting. Its web and desktop UI uses React. ([MIT](https://github.com/actualbudget/actual/blob/master/LICENSE.txt))
+
 ## Contributing
 
 Contributions are welcome. Please submit complete, working applications that:
