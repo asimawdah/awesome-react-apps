@@ -4,6 +4,7 @@ A curated list of open-source applications built with **React**. This list focus
 
 ## Contents
 
+- [Content Management & Website Builders](#content-management--website-builders)
 - [Low-Code & Internal Tools](#low-code--internal-tools)
 - [Customer Feedback & Surveys](#customer-feedback--surveys)
 - [Analytics & Observability](#analytics--observability)
@@ -79,6 +80,10 @@ A curated list of open-source applications built with **React**. This list focus
 
 - [Budibase](https://github.com/Budibase/budibase) - An open-source platform for creating business apps, operational workflows, and automations with visual builders and data-source integrations. ([GPL-3.0 overall; package-specific terms apply](https://github.com/Budibase/budibase/blob/master/LICENSE))
 - [NocoBase](https://github.com/nocobase/nocobase) - An extensible no-code/low-code platform for building business systems, workflows, and data-driven applications with a plugin-based interface. Built with React. ([License](https://github.com/nocobase/nocobase/blob/main/LICENSE))
+## Content Management & Website Builders
+
+- [Payload](https://github.com/payloadcms/payload) - A TypeScript-native headless CMS and application framework with a customizable React admin panel, content APIs, and database adapters. ([MIT](https://github.com/payloadcms/payload/blob/main/LICENSE))
+
 ## Contributing
 
 Contributions are welcome. Please submit complete, working applications that:
