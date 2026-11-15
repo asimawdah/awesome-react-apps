@@ -138,6 +138,7 @@ A curated list of open-source applications built with **React**. This list focus
 - [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - A free, open-source learning platform with interactive coding challenges, certifications, projects, and a large programming curriculum. Its web application is built with React. ([BSD-3-Clause](https://github.com/freeCodeCamp/freeCodeCamp/blob/main/LICENSE.md))
 
 - [LearnHouse](https://github.com/learnhouse/learnhouse) - An open-source learning experience platform for creating and managing courses, lessons, assignments, student submissions, and learning communities. Built with Next.js and React. ([AGPL-3.0](https://github.com/learnhouse/learnhouse/blob/dev/LICENSE))
+- [Leemons](https://github.com/leemonade/leemons) - A self-hostable learning experience platform for delivering educational content, managing learners, and extending the system through plugins. Its frontend is built with React. ([MIT](https://github.com/leemonade/leemons/blob/main/LICENSE))
 ## Self-Hosting & Home Server Dashboards
 
 - [Runtipi](https://github.com/runtipi/runtipi) - A self-hosted home-server platform with an app store, one-click deployments, and a dashboard for managing services on your own hardware. Built with NestJS and React. ([License](https://github.com/runtipi/runtipi/blob/master/LICENSE))
