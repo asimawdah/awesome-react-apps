@@ -102,6 +102,7 @@ A curated list of open-source applications built with **React**. This list focus
 
 - [Appwrite Console](https://github.com/appwrite/appwrite) - The administration console for Appwrite, an open-source backend platform for managing projects, authentication, databases, storage, functions, and realtime services. The console is built with React.
 - [ToolJet](https://github.com/ToolJet/ToolJet) - An open-source low-code application platform for building internal tools, admin panels, dashboards, and operational apps from databases, APIs, and SaaS services. Built with React. ([AGPL-3.0](https://github.com/ToolJet/ToolJet/blob/main/LICENSE))
+- [Hasura Console](https://github.com/hasura/graphql-engine) - The web-based console for managing Hasura projects, data sources, permissions, metadata, and GraphQL APIs. The console frontend is built with React. ([Apache-2.0](https://github.com/hasura/graphql-engine/blob/master/LICENSE))
 ## Contributing
 
 Contributions are welcome. Please submit complete, working applications that:
