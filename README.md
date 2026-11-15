@@ -4,6 +4,7 @@ A curated list of open-source applications built with **React**. This list focus
 
 ## Contents
 
+- [Deployment & Hosting Platforms](#deployment--hosting-platforms)
 - [Database Tools & Modeling](#database-tools--modeling)
 - [Kubernetes & Infrastructure Management](#kubernetes--infrastructure-management)
 - [Developer Tools & Desktop Apps](#developer-tools--desktop-apps)
@@ -167,6 +168,10 @@ A curated list of open-source applications built with **React**. This list focus
 
 - [drawDB](https://github.com/drawdb-io/drawdb) - A free, browser-based database diagram editor for creating ER diagrams, importing and exporting SQL, and generating database migrations. Built with React. ([AGPL-3.0](https://github.com/drawdb-io/drawdb/blob/main/LICENSE))
 - [CloudBeaver](https://github.com/dbeaver/cloudbeaver) - An open-source web-based database manager with SQL editing, data browsing, administration, and database visualization. The web application is written in TypeScript and React. ([Apache-2.0](https://github.com/dbeaver/cloudbeaver/blob/devel/LICENSE))
+## Deployment & Hosting Platforms
+
+- [Dokploy](https://github.com/Dokploy/dokploy) - A self-hostable platform-as-a-service for deploying applications and databases, managing Docker Compose projects, backups, domains, and multi-node infrastructure. Its dashboard uses Next.js and React. ([Apache-2.0](https://github.com/Dokploy/dokploy/blob/canary/LICENSE))
+
 ## Contributing
 
 Contributions are welcome. Please submit complete, working applications that:
