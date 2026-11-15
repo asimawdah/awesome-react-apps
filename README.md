@@ -4,6 +4,7 @@ A curated list of open-source applications built with **React**. This list focus
 
 ## Contents
 
+- [Security & Secrets Management](#security--secrets-management)
 - [Personal Finance & Budgeting](#personal-finance--budgeting)
 - [E-Commerce & Storefronts](#e-commerce--storefronts)
 - [Self-Hosting & Home Server Dashboards](#self-hosting--home-server-dashboards)
@@ -137,6 +138,10 @@ A curated list of open-source applications built with **React**. This list focus
 ## Personal Finance & Budgeting
 
 - [Actual Budget](https://github.com/actualbudget/actual) - A local-first personal finance and envelope-budgeting app for tracking accounts, transactions, budgets, and reports, with optional sync and self-hosting. Its web and desktop UI uses React. ([MIT](https://github.com/actualbudget/actual/blob/master/LICENSE.txt))
+
+## Security & Secrets Management
+
+- [Infisical](https://github.com/Infisical/infisical) - An open-source security platform for managing application secrets, certificates, keys, privileged access, and machine identities across development and production environments. Its web console is built with React. ([MIT](https://github.com/Infisical/infisical/blob/main/LICENSE))
 
 ## Contributing
 
