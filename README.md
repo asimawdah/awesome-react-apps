@@ -57,6 +57,7 @@ A curated list of open-source applications built with **React**. This list focus
 - [Joplin](https://github.com/laurent22/joplin) - An open-source note-taking and to-do application with notebooks, Markdown editing, search, tagging, synchronization, and desktop and mobile clients. Its desktop application uses React. ([AGPL-3.0-or-later](https://github.com/laurent22/joplin/blob/dev/LICENSE))
 - [Notesnook](https://github.com/streetwriters/notesnook) - An end-to-end encrypted, open-source note-taking app with web, desktop, and mobile clients focused on privacy and secure synchronization. Its web client is built with React. ([GPL-3.0-or-later](https://github.com/streetwriters/notesnook/blob/master/LICENSE))
 - [Standard Notes](https://github.com/standardnotes/app) - An end-to-end encrypted note-taking application for securely storing notes, files, and personal knowledge across devices. Its web application is built with React. ([AGPL-3.0](https://github.com/standardnotes/app/blob/main/LICENSE))
+- [Memos](https://github.com/usememos/memos) - A lightweight, self-hosted note-taking app for capturing thoughts in a personal timeline, with private sharing and full control over stored data. Its web client is built with React. ([MIT](https://github.com/usememos/memos/blob/main/LICENSE))
 ## Bookmarks & Personal Knowledge
 
 - [Linkwarden](https://github.com/linkwarden/linkwarden) - A self-hosted collaborative bookmark manager that saves webpages as screenshots, PDFs, and HTML snapshots for long-term access. Built with Next.js and React.
