@@ -4,6 +4,7 @@ A curated list of open-source applications built with **React**. This list focus
 
 ## Contents
 
+- [Low-Code & Internal Tools](#low-code--internal-tools)
 - [Customer Feedback & Surveys](#customer-feedback--surveys)
 - [Analytics & Observability](#analytics--observability)
 - [AI & Chat Assistants](#ai--chat-assistants)
@@ -71,6 +72,10 @@ A curated list of open-source applications built with **React**. This list focus
 ## Customer Feedback & Surveys
 
 - [Formbricks](https://github.com/formbricks/formbricks) - A privacy-first survey and experience-management platform for collecting in-product feedback, running surveys, and understanding user experiences. Built with React and Next.js. ([License](https://github.com/formbricks/formbricks/blob/main/LICENSE))
+
+## Low-Code & Internal Tools
+
+- [Appsmith](https://github.com/appsmithorg/appsmith) - An open-source low-code platform for building internal tools, admin panels, dashboards, and business applications connected to databases and APIs. Built with React. ([Apache-2.0](https://github.com/appsmithorg/appsmith/blob/release/LICENSE))
 
 ## Contributing
 
