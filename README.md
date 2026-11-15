@@ -77,6 +77,7 @@ A curated list of open-source applications built with **React**. This list focus
 
 - [Appsmith](https://github.com/appsmithorg/appsmith) - An open-source low-code platform for building internal tools, admin panels, dashboards, and business applications connected to databases and APIs. Built with React. ([Apache-2.0](https://github.com/appsmithorg/appsmith/blob/release/LICENSE))
 
+- [Budibase](https://github.com/Budibase/budibase) - An open-source platform for creating business apps, operational workflows, and automations with visual builders and data-source integrations. ([GPL-3.0 overall; package-specific terms apply](https://github.com/Budibase/budibase/blob/master/LICENSE))
 ## Contributing
 
 Contributions are welcome. Please submit complete, working applications that:
