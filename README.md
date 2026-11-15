@@ -33,6 +33,8 @@ A curated list of open-source applications built with **React**. This list focus
 
 - [Linkwarden](https://github.com/linkwarden/linkwarden) - A self-hosted collaborative bookmark manager that saves webpages as screenshots, PDFs, and HTML snapshots for long-term access. Built with Next.js and React.
 
+- [Karakeep](https://github.com/karakeep-app/karakeep) - A self-hostable bookmark manager for saving links, notes, images, and PDFs, with full-text search, automatic tagging, and AI-assisted organization. Built with Next.js and React.
+
 ## Contributing
 
 Contributions are welcome. Please submit complete, working applications that:
