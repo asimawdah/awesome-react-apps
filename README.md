@@ -4,6 +4,7 @@ A curated list of open-source applications built with **React**. This list focus
 
 ## Contents
 
+- [Database Tools & Modeling](#database-tools--modeling)
 - [Kubernetes & Infrastructure Management](#kubernetes--infrastructure-management)
 - [Developer Tools & Desktop Apps](#developer-tools--desktop-apps)
 - [Security & Secrets Management](#security--secrets-management)
@@ -160,6 +161,10 @@ A curated list of open-source applications built with **React**. This list focus
 - [Headlamp](https://github.com/kubernetes-sigs/headlamp) - An extensible Kubernetes web and desktop UI for viewing and managing cluster resources, with multi-cluster support and a plugin system. Built with React and TypeScript. ([Apache-2.0](https://github.com/kubernetes-sigs/headlamp/blob/main/LICENSE))
 
 - [Argo CD](https://github.com/argoproj/argo-cd) - A declarative GitOps continuous-delivery tool for Kubernetes, including a web UI for inspecting applications, sync status, deployments, and cluster resources. Its UI is built with React. ([Apache-2.0](https://github.com/argoproj/argo-cd/blob/master/LICENSE))
+## Database Tools & Modeling
+
+- [ChartDB](https://github.com/chartdb/chartdb) - An open-source browser-based database diagram editor for visualizing schemas, generating SQL, and designing entity relationships. Built with React. ([AGPL-3.0](https://github.com/chartdb/chartdb/blob/main/LICENSE))
+
 ## Contributing
 
 Contributions are welcome. Please submit complete, working applications that:
