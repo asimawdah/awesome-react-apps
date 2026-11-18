@@ -1,208 +1,82 @@
 # awesome-react-apps
 
-A curated list of open-source applications built with **React**. This list focuses on complete, usable applications—not component libraries, UI kits, or starter templates.
+A curated list of open-source applications that use **React** or **React Native** and provide an app for **both Android and iOS**. This list focuses on complete, usable products—not component libraries, UI kits, or starter templates.
+
+## Inclusion Criteria
+
+- The project has a first-party Android app **and** a first-party iOS app. Store releases or documented source builds for both platforms qualify.
+- React or React Native is a meaningful part of the project's application codebase. When the mobile app uses a different framework, that is stated in the description.
+- The source is public and has a recognized open-source license.
+- The project is a usable application, not just a library, UI kit, boilerplate, or tutorial.
 
 ## Contents
 
-- [Audio & Podcast Applications](#audio--podcast-applications)
-- [Whiteboards & Visual Collaboration](#whiteboards--visual-collaboration)
-- [Email & Communication Clients](#email--communication-clients)
-- [Deployment & Hosting Platforms](#deployment--hosting-platforms)
-- [Database Tools & Modeling](#database-tools--modeling)
-- [Kubernetes & Infrastructure Management](#kubernetes--infrastructure-management)
-- [Developer Tools & Desktop Apps](#developer-tools--desktop-apps)
-- [Security & Secrets Management](#security--secrets-management)
-- [Personal Finance & Budgeting](#personal-finance--budgeting)
-- [E-Commerce & Storefronts](#e-commerce--storefronts)
-- [Self-Hosting & Home Server Dashboards](#self-hosting--home-server-dashboards)
-- [Education & Learning](#education--learning)
-- [Social & Community](#social--community)
-- [Developer Platforms & Admin Consoles](#developer-platforms--admin-consoles)
-- [Communication & Collaboration](#communication--collaboration)
-- [Content Management & Website Builders](#content-management--website-builders)
-- [Low-Code & Internal Tools](#low-code--internal-tools)
-- [Customer Feedback & Surveys](#customer-feedback--surveys)
-- [Analytics & Observability](#analytics--observability)
-- [AI & Chat Assistants](#ai--chat-assistants)
-- [Communication & Collaboration](#communication--collaboration)
-- [Scheduling & Events](#scheduling--events)
-- [Documents & E-Signatures](#documents--e-signatures)
-- [Bookmarks & Personal Knowledge](#bookmarks--personal-knowledge)
 - [Productivity & Project Management](#productivity--project-management)
-- [CRM & Business](#crm--business)
+- [Bookmarks & Personal Knowledge](#bookmarks--personal-knowledge)
 - [Notes & Knowledge Management](#notes--knowledge-management)
+- [Communication & Collaboration](#communication--collaboration)
+- [Social & Community](#social--community)
+- [Audio & Podcasts](#audio--podcasts)
+- [Habit Tracking](#habit-tracking)
+- [Photo Galleries & Management](#photo-galleries--management)
+- [Art & Gallery Discovery](#art--gallery-discovery)
 
 ## Productivity & Project Management
 
-- [Stacks](https://github.com/stacks-task-manager/stacks) - A local-first, self-hostable project management app with Kanban boards, tasks, docs, notes, calendar, and collaboration. Built with React and Expo. ([AGPL-3.0](https://github.com/stacks-task-manager/stacks/blob/main/LICENSE))
+- [Plane](https://github.com/makeplane/plane) - An open-source project management workspace for issues, cycles, modules, and roadmaps. The web application uses React; its separate [Plane Mobile](https://github.com/makeplane/plane-mobile) client targets both iOS and Android and is built with Flutter. The mobile client is still evolving. ([License](https://github.com/makeplane/plane/blob/preview/LICENSE))
 
-- [Solova](https://github.com/morpheusadam/Solova) - A self-hosted workspace for freelancers combining Kanban boards, projects, client CRM, time tracking, invoicing, and accounting. Built with Next.js and React. ([MIT](https://github.com/morpheusadam/Solova/blob/main/LICENSE))
-
-- [Plane](https://github.com/makeplane/plane) - An open-source project management workspace for tracking issues, planning cycles, managing roadmaps, and collaborating across teams. Built with React and TypeScript.
-
-- [Planka](https://github.com/plankanban/planka) - A self-hosted Kanban project management app with boards, lists, cards, labels, projects, and team collaboration. Built with React.
-
-## CRM & Business
-
-- [NextCRM](https://github.com/pdovhomilja/nextcrm-app) - An open-source CRM with project management, invoicing, documents, email, and AI features. Built with Next.js, React, TypeScript, and PostgreSQL. ([MIT](https://github.com/pdovhomilja/nextcrm-app/blob/main/LICENSE))
-
-- [Twenty](https://github.com/twentyhq/twenty) - An open-source CRM designed for teams that need customizable objects, workflows, contacts, companies, and sales pipelines. Built with React and TypeScript. ([AGPL-3.0 with separately licensed enterprise files](https://github.com/twentyhq/twenty/blob/main/LICENSE))
-## Notes & Knowledge Management
-
-- [BatNoter](https://github.com/batnoter/batnoter) - A self-hosted, Markdown-based note-taking app that stores notes directly in a user's Git repository. Built with React, TypeScript, Redux Toolkit, and Material UI. ([MIT](https://github.com/batnoter/batnoter/blob/master/LICENSE))
-
-- [AFFiNE](https://github.com/toeverything/AFFiNE) - A local-first workspace combining documents, whiteboards, and databases as a privacy-focused alternative to Notion and Miro. Built with React.
-
-- [Docmost](https://github.com/Docmost/docmost) - An open-source collaborative wiki and documentation workspace with real-time editing, spaces, permissions, comments, page history, diagrams, and file attachments. Built with React. ([AGPL-3.0 core; enterprise modules are separately licensed](https://github.com/Docmost/docmost/blob/main/LICENSE))
-- [Joplin](https://github.com/laurent22/joplin) - An open-source note-taking and to-do application with notebooks, Markdown editing, search, tagging, synchronization, and desktop and mobile clients. Its desktop application uses React. ([AGPL-3.0-or-later](https://github.com/laurent22/joplin/blob/dev/LICENSE))
-- [Notesnook](https://github.com/streetwriters/notesnook) - An end-to-end encrypted, open-source note-taking app with web, desktop, and mobile clients focused on privacy and secure synchronization. Its web client is built with React. ([GPL-3.0-or-later](https://github.com/streetwriters/notesnook/blob/master/LICENSE))
-- [Standard Notes](https://github.com/standardnotes/app) - An end-to-end encrypted note-taking application for securely storing notes, files, and personal knowledge across devices. Its web application is built with React. ([AGPL-3.0](https://github.com/standardnotes/app/blob/main/LICENSE))
-- [Memos](https://github.com/usememos/memos) - A lightweight, self-hosted note-taking app for capturing thoughts in a personal timeline, with private sharing and full control over stored data. Its web client is built with React. ([MIT](https://github.com/usememos/memos/blob/main/LICENSE))
 ## Bookmarks & Personal Knowledge
 
-- [Linkwarden](https://github.com/linkwarden/linkwarden) - A self-hosted collaborative bookmark manager that saves webpages as screenshots, PDFs, and HTML snapshots for long-term access. Built with Next.js and React.
+- [Karakeep](https://github.com/karakeep-app/karakeep) - A self-hostable bookmark manager for saving links, notes, images, and PDFs, with full-text search, automatic tagging, and offline reading. Includes an Expo/React Native mobile app for Android and iOS. ([AGPL-3.0](https://github.com/karakeep-app/karakeep/blob/main/LICENSE))
 
-- [Karakeep](https://github.com/karakeep-app/karakeep) - A self-hostable bookmark manager for saving links, notes, images, and PDFs, with full-text search, automatic tagging, and AI-assisted organization. Built with Next.js and React.
+## Notes & Knowledge Management
 
-## Documents & E-Signatures
+- [Joplin](https://github.com/laurent22/joplin) - An offline-first note-taking and to-do application with Markdown, notebooks, search, attachments, and synchronization. Includes desktop and React Native mobile clients for Android and iOS. ([AGPL-3.0-or-later](https://github.com/laurent22/joplin/blob/dev/LICENSE))
 
-- [Documenso](https://github.com/documenso/documenso) - An open-source electronic signature platform for preparing, sending, signing, and managing documents online. Built with Next.js and React. ([AGPL-3.0](https://github.com/documenso/documenso/blob/main/LICENSE))
+- [Notesnook](https://github.com/streetwriters/notesnook) - An end-to-end encrypted note-taking app focused on privacy. Its front end is built with React across platforms, with React Native mobile apps for Android and iOS. ([GPL-3.0-or-later](https://github.com/streetwriters/notesnook/blob/master/LICENSE))
 
-- [OpenSign](https://github.com/OpenSignLabs/OpenSign) - An open-source electronic signature application for preparing, sending, signing, and managing documents as a self-hosted alternative to DocuSign. Built with React. ([AGPL-3.0](https://github.com/OpenSignLabs/OpenSign/blob/staging/LICENSE))
-## Scheduling & Events
-
-- [Cal.diy](https://github.com/calcom/cal.diy) - A fully open-source, self-hosted scheduling and appointment-booking platform with booking pages, availability management, and calendar integrations. Built with Next.js and React. ([MIT](https://github.com/calcom/cal.diy/blob/main/LICENSE))
+- [Standard Notes](https://github.com/standardnotes/app) - An end-to-end encrypted note-taking application for securely storing notes, files, and personal knowledge. Official apps are available for Android and iOS alongside its React web application. ([AGPL-3.0](https://github.com/standardnotes/app/blob/main/LICENSE))
 
 ## Communication & Collaboration
 
-- [Mattermost](https://github.com/mattermost/mattermost) - A self-hosted team collaboration platform for messaging, channels, workflows, voice calls, and incident response. Built with Go and React. ([MIT](https://github.com/mattermost/mattermost/blob/master/LICENSE))
+- [Mattermost Mobile](https://github.com/mattermost/mattermost-mobile) - The official mobile client for the open-source team collaboration platform, with messaging, channels, and team workflows. Supports Android and iOS. ([License](https://github.com/mattermost/mattermost-mobile/blob/main/LICENSE.txt))
 
-- [Element Web](https://github.com/element-hq/element-web) - An open-source Matrix client for encrypted messaging, group rooms, voice and video calls, and federated communication on web and desktop. Built with React. ([Apache-2.0](https://github.com/element-hq/element-web/blob/develop/LICENSE))
-- [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - A self-hostable team and customer communication platform with real-time messaging, channels, integrations, and administration tools. Its web client is built with React. ([MIT](https://github.com/RocketChat/Rocket.Chat/blob/develop/LICENSE))
-## AI & Chat Assistants
+- [Rocket.Chat Mobile](https://github.com/RocketChat/Rocket.Chat.ReactNative) - The official React Native mobile client for Rocket.Chat, with team messaging and collaboration features. Supports Android and iOS. ([License](https://github.com/RocketChat/Rocket.Chat.ReactNative/blob/develop/LICENSE))
 
-- [LibreChat](https://github.com/LibreChat-AI/LibreChat) - A self-hosted AI chat platform that brings multiple model providers together with agents, MCP support, file uploads, web search, and code execution. Built with React. ([MIT](https://github.com/LibreChat-AI/LibreChat/blob/main/LICENSE))
-
-- [NextChat](https://github.com/ChatGPTNextWeb/NextChat) - A lightweight AI assistant web app and PWA supporting multiple model providers, including cloud APIs and local inference services. Built with React and Next.js. ([MIT](https://github.com/ChatGPTNextWeb/NextChat/blob/main/LICENSE))
-- [AnythingLLM](https://github.com/Mintplex-Labs/anything-llm) - An all-in-one AI application for chatting with documents, managing workspaces, and running AI agents with local or hosted models. Includes web and desktop clients. ([MIT](https://github.com/Mintplex-Labs/anything-llm/blob/master/LICENSE))
-- [Big-AGI](https://github.com/enricoros/big-AGI) - An AI workspace for working with multiple language models, comparing responses, and using assistant and agent tools through a browser or self-hosted deployment. Built with React. ([License](https://github.com/enricoros/big-AGI/blob/main/LICENSE))
-- [Langflow](https://github.com/langflow-ai/langflow) - A visual application for building, testing, and deploying AI agents and workflows, with an interactive flow editor and API/MCP support. ([MIT](https://github.com/langflow-ai/langflow/blob/main/LICENSE))
-- [Dyad](https://github.com/dyad-sh/dyad) - A local-first desktop AI app builder for creating applications with your own models and API keys, keeping projects and development workflows on your computer. Built with React. (Core code is Apache-2.0; the `src/pro` directory uses FSL.) ([License details](https://github.com/dyad-sh/dyad/blob/main/README.md#license))
-- [Onyx](https://github.com/onyx-dot-app/onyx) - A self-hostable enterprise search and AI assistant that connects organizational data sources and provides chat, search, and knowledge discovery. Its web application is built with React and Next.js. ([MIT](https://github.com/onyx-dot-app/onyx/blob/main/LICENSE))
-- [Jan](https://github.com/janhq/jan) - An open-source desktop AI assistant for running local language models and connecting to hosted model providers, with private, offline-capable workflows. Its desktop interface uses React. ([License](https://github.com/janhq/jan/blob/main/LICENSE))
-## Analytics & Observability
-
-- [Umami](https://github.com/umami-software/umami) - A privacy-focused, self-hostable web and product analytics platform for tracking website traffic, events, and conversions without cookie-based tracking. Built with Next.js and React. ([MIT](https://github.com/umami-software/umami/blob/master/LICENSE))
-
-- [PostHog](https://github.com/posthog/posthog) - An open-source product analytics platform combining event analytics, session replay, feature flags, experiments, and product insights. Its web application is built with React. ([License](https://github.com/PostHog/posthog/blob/master/LICENSE))
-- [GrowthBook](https://github.com/growthbook/growthbook) - A self-hostable feature-flagging and experimentation platform for managing releases, running A/B tests, and analyzing product experiments. Built with React. ([MIT](https://github.com/growthbook/growthbook/blob/main/LICENSE))
-- [Lightdash](https://github.com/lightdash/lightdash) - An open-source business intelligence platform for building governed metrics, exploring data, and creating dashboards from dbt projects. Its web interface is built with React. ([License](https://github.com/lightdash/lightdash/blob/main/LICENSE))
-- [Redash](https://github.com/getredash/redash) - A browser-based data exploration and visualization app for writing queries, building charts and dashboards, scheduling refreshes, and sharing insights. Built with React. ([BSD-2-Clause](https://github.com/getredash/redash/blob/master/LICENSE))
-- [Apache Superset](https://github.com/apache/superset) - An Apache-licensed business intelligence application for exploring datasets, creating interactive charts, and building data dashboards. Its frontend is built with React. ([Apache-2.0](https://github.com/apache/superset/blob/master/LICENSE.txt))
-- [Grafana](https://github.com/grafana/grafana) - An open-source observability and monitoring application for querying, visualizing, and alerting on metrics, logs, and traces from many data sources. Its web UI is built with React. ([AGPL-3.0](https://github.com/grafana/grafana/blob/main/LICENSE))
-- [SigNoz](https://github.com/SigNoz/signoz) - An open-source, OpenTelemetry-native observability platform for collecting and exploring application traces, metrics, and logs with dashboards and alerts. Includes a React web interface. ([License](https://github.com/SigNoz/signoz/blob/main/LICENSE))
-- [OpenReplay](https://github.com/openreplay/openreplay) - A self-hosted product experience platform combining session replay, co-browsing, and product analytics so teams can understand how users interact with their applications. ([AGPL-3.0](https://github.com/openreplay/openreplay/blob/main/LICENSE))
-- [Metabase](https://github.com/metabase/metabase) - An open-source business intelligence application that lets teams explore databases, ask questions, create charts, and share interactive dashboards. Its web frontend is built with React. ([License](https://github.com/metabase/metabase/blob/master/LICENSE))
-- [OpenObserve](https://github.com/openobserve/openobserve) - An open-source observability application for searching, visualizing, and alerting on logs, metrics, traces, and frontend monitoring data. ([License](https://github.com/openobserve/openobserve/blob/main/LICENSE))
-- [OneUptime](https://github.com/OneUptime/oneuptime) - An open-source observability and reliability platform for uptime monitoring, incident management, status pages, on-call schedules, and alerting. Its web application is built with React. ([License](https://github.com/OneUptime/oneuptime/blob/main/LICENSE))
-- [OpenStatus](https://github.com/openstatusHQ/openstatus) - An open-source platform for uptime monitoring, incident response, alerting, and public status pages, with infrastructure-as-code workflows. Its dashboard is built with Next.js and React. ([AGPL-3.0](https://github.com/openstatusHQ/openstatus/blob/main/LICENSE))
-- [Langfuse](https://github.com/langfuse/langfuse) - An open-source LLM engineering platform for tracing model calls, managing prompts, evaluating outputs, and monitoring AI application quality. Its web application uses React and Next.js. ([MIT](https://github.com/langfuse/langfuse/blob/main/LICENSE))
-- [Helicone](https://github.com/Helicone/helicone) - An open-source LLM observability platform for tracking AI requests, token usage, latency, costs, and agent traces, with a web dashboard and routing tools. Its dashboard uses React and Next.js. ([License](https://github.com/Helicone/helicone/blob/main/LICENSE))
-- [ClickStack](https://github.com/ClickHouse/ClickStack) - An open-source observability application for searching and visualizing logs and traces stored in ClickHouse, with dashboards and a user-friendly query interface. Built with React. ([MIT](https://github.com/ClickHouse/ClickStack/blob/main/LICENSE))
-## Customer Feedback & Surveys
-
-- [Formbricks](https://github.com/formbricks/formbricks) - A privacy-first survey and experience-management platform for collecting in-product feedback, running surveys, and understanding user experiences. Built with React and Next.js. ([License](https://github.com/formbricks/formbricks/blob/main/LICENSE))
-
-## Low-Code & Internal Tools
-
-- [Appsmith](https://github.com/appsmithorg/appsmith) - An open-source low-code platform for building internal tools, admin panels, dashboards, and business applications connected to databases and APIs. Built with React. ([Apache-2.0](https://github.com/appsmithorg/appsmith/blob/release/LICENSE))
-
-- [Budibase](https://github.com/Budibase/budibase) - An open-source platform for creating business apps, operational workflows, and automations with visual builders and data-source integrations. ([GPL-3.0 overall; package-specific terms apply](https://github.com/Budibase/budibase/blob/master/LICENSE))
-- [NocoBase](https://github.com/nocobase/nocobase) - An extensible no-code/low-code platform for building business systems, workflows, and data-driven applications with a plugin-based interface. Built with React. ([License](https://github.com/nocobase/nocobase/blob/main/LICENSE))
-## Content Management & Website Builders
-
-- [Payload](https://github.com/payloadcms/payload) - A TypeScript-native headless CMS and application framework with a customizable React admin panel, content APIs, and database adapters. ([MIT](https://github.com/payloadcms/payload/blob/main/LICENSE))
-
-- [Strapi](https://github.com/strapi/strapi) - An open-source headless CMS for creating, managing, and delivering structured content through APIs, with a React-based administration interface. ([License](https://github.com/strapi/strapi/blob/develop/LICENSE))
-- [Webstudio](https://github.com/webstudio-is/webstudio) - An open-source visual website builder for designing responsive websites with reusable components and self-hosted deployment. Built with React. ([AGPL-3.0 for the core](https://github.com/webstudio-is/webstudio/blob/main/LICENSE))
-- [TinaCMS](https://github.com/tinacms/tinacms) - A Git-backed headless CMS for managing Markdown, MDX, and structured content with visual editing and live previews. Built around React. ([Apache-2.0](https://github.com/tinacms/tinacms/blob/main/LICENSE))
-- [Keystone](https://github.com/keystonejs/keystone) - An open-source headless CMS and application platform with a customizable React-based admin UI, GraphQL APIs, lists, and access-control features. ([MIT](https://github.com/keystonejs/keystone/blob/main/LICENSE))
-## Developer Platforms & Admin Consoles
-
-- [Supabase Studio](https://github.com/supabase/supabase) - The open-source dashboard for the Supabase developer platform, providing visual tools to manage PostgreSQL databases, authentication, storage, APIs, and edge functions. Built with React.
-
-- [Appwrite Console](https://github.com/appwrite/appwrite) - The administration console for Appwrite, an open-source backend platform for managing projects, authentication, databases, storage, functions, and realtime services. The console is built with React.
-- [ToolJet](https://github.com/ToolJet/ToolJet) - An open-source low-code application platform for building internal tools, admin panels, dashboards, and operational apps from databases, APIs, and SaaS services. Built with React. ([AGPL-3.0](https://github.com/ToolJet/ToolJet/blob/main/LICENSE))
-- [Hasura Console](https://github.com/hasura/graphql-engine) - The web-based console for managing Hasura projects, data sources, permissions, metadata, and GraphQL APIs. The console frontend is built with React. ([Apache-2.0](https://github.com/hasura/graphql-engine/blob/master/LICENSE))
 ## Social & Community
 
-- [Mastodon](https://github.com/mastodon/mastodon) - A decentralized, federated social networking application for publishing posts, following people, and participating in communities across independently operated servers. Its web interface uses React. ([AGPL-3.0](https://github.com/mastodon/mastodon/blob/main/LICENSE))
+- [Bluesky Social App](https://github.com/bluesky-social/social-app) - The official Bluesky client for publishing posts, following feeds, profiles, and messaging. Built with React Native and React Native Web for iOS, Android, and web. ([License](https://github.com/bluesky-social/social-app/blob/main/LICENSE))
 
-- [Bluesky Social App](https://github.com/bluesky-social/social-app) - The open-source client for Bluesky, supporting the web, iOS, and Android with feeds, posts, profiles, messaging, and decentralized social features. Built with React Native and React Native Web. ([License](https://github.com/bluesky-social/social-app/blob/main/LICENSE))
-## Education & Learning
+## Audio & Podcasts
 
-- [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - A free, open-source learning platform with interactive coding challenges, certifications, projects, and a large programming curriculum. Its web application is built with React. ([BSD-3-Clause](https://github.com/freeCodeCamp/freeCodeCamp/blob/main/LICENSE.md))
+- [Podverse](https://github.com/podverse/podverse-rn) - A free, open-source podcast manager with subscriptions, automatic downloads, playback queues, and sleep timers. The React Native app supports Android and iOS. ([AGPL-3.0](https://github.com/podverse/podverse-rn/blob/develop/LICENSE))
 
-- [LearnHouse](https://github.com/learnhouse/learnhouse) - An open-source learning experience platform for creating and managing courses, lessons, assignments, student submissions, and learning communities. Built with Next.js and React. ([AGPL-3.0](https://github.com/learnhouse/learnhouse/blob/dev/LICENSE))
-- [Leemons](https://github.com/leemonade/leemons) - A self-hostable learning experience platform for delivering educational content, managing learners, and extending the system through plugins. Its frontend is built with React. ([MIT](https://github.com/leemonade/leemons/blob/main/LICENSE))
-## Self-Hosting & Home Server Dashboards
+## Habit Tracking
 
-- [Runtipi](https://github.com/runtipi/runtipi) - A self-hosted home-server platform with an app store, one-click deployments, and a dashboard for managing services on your own hardware. Built with NestJS and React. ([License](https://github.com/runtipi/runtipi/blob/master/LICENSE))
+- [OnTrack](https://github.com/aymec/habit-tracker) - A React Native and Expo habit tracker for managing goals, logging entries, setting targets, and reviewing progress. Available on [App Store](https://apps.apple.com/app/ontrack-habit-tracker/id6757606065) and [Google Play](https://play.google.com/store/apps/details?id=com.aym3r1c.ontrack). ([MIT](https://github.com/aymec/habit-tracker/blob/main/LICENSE))
 
-- [Homepage](https://github.com/gethomepage/homepage) - A configurable self-hosted start page that brings links, service status, bookmarks, and integrations for many home-server applications into one dashboard. Built with React and Next.js. ([License](https://github.com/gethomepage/homepage/blob/dev/LICENSE))
-## E-Commerce & Storefronts
+- [Open-Source Habit Tracker](https://github.com/hasibhaque07/open-source-habit-tracker-app) - An offline-first habit tracker built with Expo, React Native, TypeScript, and SQLite. Includes habit creation and management, progress tracking, and local on-device storage; can be built for Android and iOS. ([MIT](https://github.com/hasibhaque07/open-source-habit-tracker-app/blob/main/LICENSE))
 
-- [Saleor Dashboard](https://github.com/saleor/saleor-dashboard) - A React single-page administration app for managing products, orders, customers, channels, and configuration in a Saleor commerce backend. ([BSD-3-Clause](https://github.com/saleor/saleor-dashboard/blob/main/LICENSE))
+- [Habit Tracker App](https://github.com/takanome-dev/habit-tracker-app) - A React Native habit-tracking application built with the Ignite tooling, with source instructions for running on Android and iOS. ([MIT](https://github.com/takanome-dev/habit-tracker-app/blob/main/LICENSE))
 
-- [Saleor Storefront](https://github.com/saleor/storefront) - An open-source, customizable e-commerce storefront with product browsing, cart, checkout, and Saleor GraphQL integration. Built with Next.js and React. ([License](https://github.com/saleor/storefront/blob/main/LICENSE))
-## Personal Finance & Budgeting
+## Photo Galleries & Management
 
-- [Actual Budget](https://github.com/actualbudget/actual) - A local-first personal finance and envelope-budgeting app for tracking accounts, transactions, budgets, and reports, with optional sync and self-hosting. Its web and desktop UI uses React. ([MIT](https://github.com/actualbudget/actual/blob/master/LICENSE.txt))
+- [LibrePhotos](https://github.com/LibrePhotos/librephotos) - A self-hosted photo and video library with albums, memories, face recognition, object detection, and semantic search. The project includes a React web client and an Expo mobile app for Android and iOS. ([MIT](https://github.com/LibrePhotos/librephotos/blob/main/LICENSE))
 
-## Security & Secrets Management
+- [Ente Photos](https://github.com/ente/ente) - An end-to-end encrypted photo library with albums, private sharing, face detection, and semantic search. The repository includes React/Next.js web clients and official Flutter apps for Android and iOS. ([License](https://github.com/ente/ente/blob/main/LICENSE))
 
-- [Infisical](https://github.com/Infisical/infisical) - An open-source security platform for managing application secrets, certificates, keys, privileged access, and machine identities across development and production environments. Its web console is built with React. ([MIT](https://github.com/Infisical/infisical/blob/main/LICENSE))
+## Art & Gallery Discovery
 
-## Developer Tools & Desktop Apps
-
-- [GitHub Desktop](https://github.com/desktop/desktop) - An open-source desktop client for working with GitHub repositories, reviewing diffs, managing branches, and committing or publishing changes. Built with Electron, TypeScript, and React. ([MIT](https://github.com/desktop/desktop/blob/development/LICENSE))
-
-- [Onlook](https://github.com/onlook-dev/onlook) - An open-source visual design tool for editing React applications directly in their codebase, combining a visual canvas with AI-assisted code changes. Built with React and TypeScript. ([Apache-2.0](https://github.com/onlook-dev/onlook/blob/main/package.json))
-- [Backstage](https://github.com/backstage/backstage) - An open platform for building internal developer portals with a software catalog, documentation, templates, and engineering tools. Its frontend application is built with React. ([Apache-2.0](https://github.com/backstage/backstage/blob/master/LICENSE))
-## Kubernetes & Infrastructure Management
-
-- [Headlamp](https://github.com/kubernetes-sigs/headlamp) - An extensible Kubernetes web and desktop UI for viewing and managing cluster resources, with multi-cluster support and a plugin system. Built with React and TypeScript. ([Apache-2.0](https://github.com/kubernetes-sigs/headlamp/blob/main/LICENSE))
-
-- [Argo CD](https://github.com/argoproj/argo-cd) - A declarative GitOps continuous-delivery tool for Kubernetes, including a web UI for inspecting applications, sync status, deployments, and cluster resources. Its UI is built with React. ([Apache-2.0](https://github.com/argoproj/argo-cd/blob/master/LICENSE))
-## Database Tools & Modeling
-
-- [ChartDB](https://github.com/chartdb/chartdb) - An open-source browser-based database diagram editor for visualizing schemas, generating SQL, and designing entity relationships. Built with React. ([AGPL-3.0](https://github.com/chartdb/chartdb/blob/main/LICENSE))
-
-- [drawDB](https://github.com/drawdb-io/drawdb) - A free, browser-based database diagram editor for creating ER diagrams, importing and exporting SQL, and generating database migrations. Built with React. ([AGPL-3.0](https://github.com/drawdb-io/drawdb/blob/main/LICENSE))
-- [CloudBeaver](https://github.com/dbeaver/cloudbeaver) - An open-source web-based database manager with SQL editing, data browsing, administration, and database visualization. The web application is written in TypeScript and React. ([Apache-2.0](https://github.com/dbeaver/cloudbeaver/blob/devel/LICENSE))
-## Deployment & Hosting Platforms
-
-- [Dokploy](https://github.com/Dokploy/dokploy) - A self-hostable platform-as-a-service for deploying applications and databases, managing Docker Compose projects, backups, domains, and multi-node infrastructure. Its dashboard uses Next.js and React. ([Apache-2.0](https://github.com/Dokploy/dokploy/blob/canary/LICENSE))
-
-## Email & Communication Clients
-
-- [MailCopilot](https://github.com/mailcopilot/mailcopilot) - An open-source desktop email client with multi-account IMAP/SMTP support, unified inbox, message threading, scheduled sending, reminders, and an AI assistant. Built with Electron, React, and TypeScript. ([AGPL-3.0-only](https://github.com/mailcopilot/mailcopilot/blob/main/LICENSE))
-
-## Whiteboards & Visual Collaboration
-
-- [Excalidraw](https://github.com/excalidraw/excalidraw) - An open-source, collaborative virtual whiteboard with a hand-drawn visual style, diagramming tools, and end-to-end encrypted collaboration. The editor is built with React. ([MIT](https://github.com/excalidraw/excalidraw/blob/master/LICENSE))
-
-## Audio & Podcast Applications
-
-- [Podverse](https://github.com/podverse/podverse) - An open-source, self-hostable podcast application with web and mobile clients, Podcasting 2.0 features, chapters, transcripts, and creator-support tools. Its web client is built with React and Next.js. ([AGPL-3.0](https://github.com/podverse/podverse/blob/develop/LICENSE))
+- [Artsy Eigen](https://github.com/artsy/eigen) - Artsy's production React Native app for discovering artists and artworks, following galleries, and exploring the art marketplace. Supports Android and iOS. ([MIT](https://github.com/artsy/eigen/blob/main/LICENSE))
 
 ## Contributing
 
 Contributions are welcome. Please submit complete, working applications that:
 
-- Are publicly available and genuinely open source.
-- Use React as a core part of the application (React Native projects are welcome when clearly identified).
-- Include a clear README and a recognized open-source license.
+- Have a first-party app for **both Android and iOS**, either through official releases or documented source builds.
+- Use React or React Native as a meaningful part of the application. If the mobile client uses another framework, mention it clearly.
+- Are publicly available and genuinely open source, with a recognized license.
+- Include a clear README and setup instructions.
 - Are not merely component libraries, UI kits, boilerplates, or tutorials.
 
-Add each project under the most relevant category with a concise description and a link to its source repository.
+Add each project under the most relevant category with a concise description, a link to its source repository, and evidence of support for both mobile platforms.
